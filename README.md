@@ -2,7 +2,7 @@
 - 👀 I’m interested in creative websites, and machine learning
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on anything
-- ⚡ Fun fact: I am a developer by mistake
+- ⚡ Fun fact: I got into developing by chance
 
 <!---
 aastharc/aastharc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
